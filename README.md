@@ -2,7 +2,7 @@
 Analysis of snRNA-seq2 data coming from 3 months old mouse brain.
 
 ## Background
-Single-cell RNA-seq is revealing the role of pathogenic cell populations in the development and progression of chronic diseases. In order to expand our knowledge on cellular heterogeneity we have developed a single-nucleus RNA-seq-2 method that allows deep characterization of nuclei isolated from frozen archived tissues. We have used this approach to characterize the transcriptional profile of individual hepatocytes with different levels of ploidy, and discovered that gene expression in tetraploid mononucleated hepatocytes is conditioned by their position within the hepatic lobe. Our work has revealed a remarkable crosstalk between gene dosage and spatial distribution of hepatocytes.
+
 
 ## Data accessibility
 The raw data not yet available.
