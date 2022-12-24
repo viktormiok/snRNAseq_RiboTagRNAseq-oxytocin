@@ -1,8 +1,18 @@
-## snRNAseq_oxytocin
-Analysis of snRNA-seq2 data coming from 3 months old mouse brain.
+## Coupling of oxytocin and cholecystokinin pathways in the hypothalamus is required for gut-to-brain homeostatic feeding control
 
-## Background
+## Summary
+Gut-to-brain communication is pivotal for the regulation of energy homeostasis and its underlying biology is thus piquing great interest in the face of the current obesity pandemic. The emergence of several druggable targets within this communication has now motivated us to systematically interrogate the hitherto elusive intricacies of an alternative pathway that might hold considerable potential. By employing a series of electrophysiological, transcriptomic, and behavioral approaches, we here document novel insights suggesting that obesogenic diets promote reduced CCKA receptor expression and enhanced inhibitory κ-opioid tone, which together constitute a major mechanism to restrain hypothalamic paraventricular oxytocin (PVNOT) neuronal activation to respond to gut-derived anorexigenic cues.
+We summarize our main findings as follows:
 
+-	Selective, adult-onset ablation of PVNOT neurons in mice leads to hyperphagic obesity on a standard chow diet, which is rectifiable by pharmacological OT substitution.
+-	Mice devoid of PVNOT neurons fail to suppress food intake in response to CCK.
+-	CCK robustly induces electrophysiological and transcriptional modifications in PVNOT neu-rons of lean, but not diet-induced obese mice.
+-	Chemogenetic activation of PVNOT neurons is sufficient to restore CCK-evoked hypo-phagia despite a high-fat high-sugar (HFHS) diet.
+-	Rational combination of OTR and CCKAR agonism confers superior metabolic outcomes over respective monoagonist administration in diet-induced obese mice.
+-	Intersecting subpopulations of hypothalamic OT neurons are co-regulated by CCKAR and κ-opioid receptors dependent on dietary context as revealed by single-nuclei RNA-seq.
+-	Enhanced κ-opioid tone constitutes a major mechanism restraining PVNOT neuronal acti-vation by CCK under HFHS diet feeding.
+
+We believe that our findings provide a deeper understanding of how peripheral and central satiation pathways converge, and how they are altered in disease states such as obesity. Moreover, we report new insights into the molecular heterogeneity of the OT system and its interactions with gut-hormone signaling, which we are sure will draw significant attention and spur future lines of investigation.
 
 ## Data accessibility
 The raw data not yet available.
