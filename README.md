@@ -59,8 +59,8 @@ Raw reads were aligned to mm10 and ERCC92 reference using STARa2.7.1a. PCR dupli
 All the data required for performing the analysis and publisch in the reference articles will be soon deposited in the National Center for Biotechnology Information Gene Expression Omnibus (GEO) and are accessible through the GEO Series accession numbers:
 | Data type     | GEO number | Notebook |
 | ------------- | ------------- | ------------- |
-| Transcriptomics  | __`GSE...`__  | [transcriptomics_analysis_v1.ipynb](https://github.com/viktormiok/AstrocytesHeterogenityARC/blob/main/transcriptomics_analysis_v1.ipynb) |
-| Singel-Cell RNA-Seq  | __`GSE...`__| [astrocyte_scRNAseq_cluster_approach.ipynb](https://github.com/viktormiok/AstrocytesHeterogenityARC/blob/main/astrocyte_scRNAseq_cluster_approach.ipynb)  |
+| Transcriptomics  | __`GSE...`__  | [RiboTag_RNAseq-analysis.ipynb](https://github.com/viktormiok/snRNAseq_RiboTagRNAseq-oxytocin/blob/main/RiboTag_RNAseq-analysis.ipynb) |
+| Singel-Nuclei RNA-Seq  | __`GSE...`__| [snRNAseq_analysis.ipynb](https://github.com/viktormiok/snRNAseq_RiboTagRNAseq-oxytocin/blob/main/snRNAseq_analysis.ipynb)  |
 
 In order to access one of the data set for instance GSE78279 you need to run the code bellow. Unpacking the data requires tar and gunzip, which should already be available on most systems.
 
