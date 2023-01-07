@@ -30,6 +30,8 @@ We summarize our main findings as follows:
 
 We believe that our findings provide a deeper understanding of how peripheral and central satiation pathways converge, and how they are altered in disease states such as obesity. Moreover, we report new insights into the molecular heterogeneity of the OT system and its interactions with gut-hormone signaling, which we are sure will draw significant attention and spur future lines of investigation.
 
+<img src="https://github.com/viktormiok/snRNAseq_RiboTagRNAseq-oxytocin/blob/main/graphical%20abstract.jpeg" align="center" height="640" width="730">
+
 ## Single-nuclei RNA-seq data
 
 ### Preprocessing
