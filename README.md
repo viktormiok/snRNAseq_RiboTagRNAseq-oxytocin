@@ -4,6 +4,8 @@
 ) ![GitHub](https://img.shields.io/github/license/viktormiok/snRNAseq_RiboTagRNAseq-oxytocin
 )
 
+![image](https://user-images.githubusercontent.com/22052679/221128568-256b9940-ae3a-442e-bcc8-df2277842054.png)
+
 [![Edit with Gitpod](https://gitpod.io/button/open-in-gitpod.svg)](https://gitpod.io/#https://github.com/viktormiok/snRNAseq_RiboTagRNAseq-oxytocin
 ) 
 
