@@ -20,7 +20,7 @@
 # Coupling of oxytocin and cholecystokinin pathways in the hypothalamus is required for gut-to-brain homeostatic feeding control
 <img src="https://github.com/viktormiok/snRNAseq_RiboTagRNAseq-oxytocin/blob/main/graphical%20abstract.jpeg" align="center" height="640" width="730">
 
-### Summary
+# Summary
 Gut-to-brain communication is pivotal for the regulation of energy homeostasis and its underlying biology is thus piquing great interest in the face of the current obesity pandemic. The emergence of several druggable targets within this communication has now motivated us to systematically interrogate the hitherto elusive intricacies of an alternative pathway that might hold considerable potential. By employing a series of electrophysiological, transcriptomic, and behavioral approaches, we here document novel insights suggesting that obesogenic diets promote reduced CCKA receptor expression and enhanced inhibitory κ-opioid tone, which together constitute a major mechanism to restrain hypothalamic paraventricular oxytocin (PVNOT) neuronal activation to respond to gut-derived anorexigenic cues.
 We summarize our main findings as follows:
 
