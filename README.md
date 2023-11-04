@@ -69,7 +69,7 @@ All the data required for performing the analysis are published in the reference
 In order to access one of the data sets for instance GSE78279 you need to run the code below. Unpacking the data requires tar and gunzip, which should already be available on most systems.
 
 ```
-cd ../  #To get to the main github repo folder
+cd ../  #To get to the main GitHub repo folder
 mkdir -p data/AstrocytesHeterogenityARC/
 cd data/AstrocytesHeterogenityARC/
 wget ftp://ftp.ncbi.nlm.nih.gov/geo/series/GSE78nnn/GSE78279/suppl/GSE78279_RAW.tar
@@ -85,6 +85,8 @@ __`snRNAseq_RiboTagRNAseq-oxytocin`__ is distributed under the GPL-3.0 License. 
 ## References
 
 Publications related to __`snRNAseq_RiboTagRNAseq-oxytocin`__ include:
+
+- Gruber, T., Lechner F., Murat C., Contreras R.E., Sanchez-Quant E., Miok V., Makris K., Le Thuc O., Gonzales-Garcia I., García-Clave E., Althammer F., Krabichler Q., DeCamp L.M., Jones R.G., Lutter D., Williams R.H., Pfluger P.T., Mueller T.D., Woods S.C., Pospisilik J.A., Martinez-Jimenez C.P., Tschoep M.H., Grinevich V., Garcia-Caceres C. (2023), "[High-calorie diets uncouple hypothalamic oxytocin neurons from a gut-to-brain satiation pathway via κ-opioid signaling](https://www.cell.com/cell-reports/pdf/S2211-1247(23)01317-7.pdf)", *Cell Reports*, 42(10). 
 
 - Gruber, T., Lechner F., Murat C., Contreras R.E., Sanchez-Quant E., Miok V., Le Thuc O., Gonzales-Garcia I., Williams R.H., Pfluger P.T., Mueller T.D., Woods S.C., Martinez-Jimenez C.P., Tschoep M.H., Grinevich V., Garcia-Caceres C. (2021), "[Coupling of oxytocin and cholecystokinin pathways in the hypothalamus is required for gut-to-brain homeostatic feeding control](https://www.biorxiv.org/content/10.1101/2022.07.20.500778v1.abstract)", *bioRxiv*, 4(1).
 
