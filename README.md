@@ -45,7 +45,7 @@ Raw reads were aligned to mm10 and ERCC92 reference using STARa2.7.1a. PCR dupli
  - We keep genes that are present in at least 1% of the population with at least 250 reads across nuclei
  - Nuclei with more than 7,000 are removed as well as nuclei with library sizes outside the range of 10,000-300,000
 2. Normalisation
- - ERCC size factor is calculated as the sum of ERCC reads per nucleus divided by the mean ERCC reads across all nuclei
+ - The ERCC size factor is calculated as the sum of ERCC reads per nucleus divided by the mean ERCC reads across all nuclei
  - Per gene, the reads are divided by the length of the gene in kb
  - The library size normalization factor is defined as the sum of gene length-normalized counts divided by 10,000 times the ERCC size factor
  - Per nucleus, the reads are divided by the library size normalization factor
@@ -57,10 +57,10 @@ Raw reads were aligned to mm10 and ERCC92 reference using STARa2.7.1a. PCR dupli
  - Gene set enrichment analysis using gprofiler
  - Transcriptional variability is defined as the coefficient of variation calculated on log-transformed data
  - Co-expression of stem cell markers is addressed by calculating Jaccard distances between genes
- - Diffusion pseudotime is calculated on markers of zonation to establish an in-silico order of nuclei along the liver lobule based on their expression        profiles
+ - Diffusion pseudo time is calculated on markers of zonation to establish an in-silico order of nuclei along the liver lobule based on their expression        profiles
 
 ## Data and analysis
-All the data required for performing the analysis are published in the reference articles will be soon deposited in the National Center for Biotechnology Information Gene Expression Omnibus (GEO) and are accessible through the GEO Series accession numbers:
+All the data required for performing the analysis are published in the reference articles and will be soon deposited in the National Center for Biotechnology Information Gene Expression Omnibus (GEO) and are accessible through the GEO Series accession numbers:
 | Data type     | GEO number | Notebook |
 | ------------- | ------------- | ------------- |
 | Transcriptomics  | __`GSE...`__  | [RiboTag_RNAseq-analysis.ipynb](https://github.com/viktormiok/snRNAseq_RiboTagRNAseq-oxytocin/blob/main/RiboTag_RNAseq-analysis.ipynb) |
