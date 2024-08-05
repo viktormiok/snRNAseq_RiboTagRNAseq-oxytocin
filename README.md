@@ -21,10 +21,10 @@
 <img src="https://github.com/viktormiok/snRNAseq_RiboTagRNAseq-oxytocin/blob/main/graphical%20abstract.jpeg" align="center" height="640" width="730">
 
 # Summary
-Gut-to-brain communication is pivotal for the regulation of energy homeostasis and its underlying biology is thus piquing great interest in the face of the current obesity pandemic. The emergence of several druggable targets within this communication has now motivated us to systematically interrogate the hitherto elusive intricacies of an alternative pathway that might hold considerable potential. By employing a series of electrophysiological, transcriptomic, and behavioral approaches, we here document novel insights suggesting that obesogenic diets promote reduced CCKA receptor expression and enhanced inhibitory κ-opioid tone, which together constitute a major mechanism to restrain hypothalamic paraventricular oxytocin (PVNOT) neuronal activation to respond to gut-derived anorexigenic cues.
+Gut-to-brain communication is pivotal for regulating energy homeostasis, and its underlying biology is thus piquing great interest in the current obesity pandemic. The emergence of several druggable targets within this communication has now motivated us to systematically interrogate the hitherto elusive intricacies of an alternative pathway that might hold considerable potential. By employing a series of electrophysiological, transcriptomic, and behavioral approaches, we here document novel insights suggesting that obesogenic diets promote reduced CCKA receptor expression and enhanced inhibitory κ-opioid tone, which together constitute a major mechanism to restrain hypothalamic paraventricular oxytocin (PVNOT) neuronal activation to respond to gut-derived anorexigenic cues.
 We summarize our main findings as follows:
 
--	Selective, adult-onset ablation of PVNOT neurons in mice leads to hyperphagic obesity on a standard chow diet, which is rectifiable by pharmacological OT substitution.
+-	Selective, adult-onset ablation of PVNOT neurons in mice leads to hyperphagic obesity on a standard chow diet, which is correctable by pharmacological OT substitution.
 -	Mice devoid of PVNOT neurons fail to suppress food intake in response to CCK.
 -	CCK robustly induces electrophysiological and transcriptional modifications in PVNOT neurons of lean, but not diet-induced obese mice.
 -	Chemogenetic activation of PVNOT neurons is sufficient to restore CCK-evoked hypophagia despite a high-fat high-sugar (HFHS) diet.
@@ -32,7 +32,7 @@ We summarize our main findings as follows:
 -	Intersecting subpopulations of hypothalamic OT neurons are co-regulated by CCKAR and κ-opioid receptors dependent on dietary context as revealed by single-nuclei RNA-seq.
 -	Enhanced κ-opioid tone constitutes a major mechanism restraining PVNOT neuronal activation by CCK under HFHS diet feeding.
 
-We believe that our findings provide a deeper understanding of how peripheral and central satiation pathways converge, and how they are altered in disease states such as obesity. Moreover, we report new insights into the molecular heterogeneity of the OT system and its interactions with gut-hormone signaling, which we are sure will draw significant attention to and spur future lines of investigation.
+Our findings provide a deeper understanding of how peripheral and central satiation pathways converge, and how they are altered in disease states such as obesity. Moreover, we report new insights into the molecular heterogeneity of the OT system and its interactions with gut-hormone signaling, which we are sure will draw significant attention to and spur future lines of investigation.
 
 ## Single-nuclei RNA-seq data
 
@@ -66,7 +66,7 @@ All the data required for performing the analysis are published in the reference
 | Transcriptomics  | __`GSE...`__  | [RiboTag_RNAseq-analysis.ipynb](https://github.com/viktormiok/snRNAseq_RiboTagRNAseq-oxytocin/blob/main/RiboTag_RNAseq-analysis.ipynb) |
 | Singel-Nuclei RNA-Seq  | __`GSE...`__| [snRNAseq_analysis.ipynb](https://github.com/viktormiok/snRNAseq_RiboTagRNAseq-oxytocin/blob/main/snRNAseq_analysis.ipynb)  |
 
-In order to access one of the data sets for instance GSE78279 you need to run the code below. Unpacking the data requires tar and gunzip, which should already be available on most systems.
+To access one of the data sets for instance GSE78279 you need to run the code below. Unpacking the data requires tar and gunzip, which should already be available on most systems.
 
 ```
 cd ../  #To get to the main GitHub repo folder
