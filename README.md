@@ -60,7 +60,7 @@ Raw reads were aligned to mm10 and ERCC92 reference using STARa2.7.1a. PCR dupli
  - Diffusion pseudo time is calculated on markers of zonation to establish an in-silico order of nuclei along the liver lobule based on their expression        profiles
 
 ## Data and analysis
-All the data required for performing the analysis are published in the reference articles and will be soon deposited in the National Center for Biotechnology Information Gene Expression Omnibus (GEO) and are accessible through the GEO Series accession numbers:
+All the data required for the analysis are published in the reference articles. They will be soon deposited in the National Center for Biotechnology Information Gene Expression Omnibus (GEO) and are accessible through the GEO Series accession numbers:
 | Data type     | GEO number | Notebook |
 | ------------- | ------------- | ------------- |
 | Transcriptomics  | __`GSE...`__  | [RiboTag_RNAseq-analysis.ipynb](https://github.com/viktormiok/snRNAseq_RiboTagRNAseq-oxytocin/blob/main/RiboTag_RNAseq-analysis.ipynb) |
@@ -79,7 +79,7 @@ gunzip GSE78279_RAW/*_Regional_*
 ```
 ## License
 
-__`snRNAseq_RiboTagRNAseq-oxytocin`__ is distributed under the GPL-3.0 License. Please read the license before using __`snRNAseq_RiboTagRNAseq-oxytocin`__, which is distributed in the `LICENSE` file.
+__`snRNAseq_RiboTagRNAseq-oxytocin`__ is distributed under the GPL-3.0 License. Please read the license before using __`snRNAseq_RiboTagRNAseq-oxytocin`__, distributed in the `LICENSE` file.
 
 
 ## References
