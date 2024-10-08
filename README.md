@@ -41,7 +41,7 @@ Raw reads were aligned to mm10 and ERCC92 reference using STARa2.7.1a. PCR dupli
 
 ### Analysis Pipeline
 1. Filtering:
- - Nuclei are kept if they have 5-90% ERCC reads and at least 1000 genes expressed.
+ - Nuclei are kept if 5-90% ERCC reads and at least 1000 genes are expressed.
  - We keep genes that are present in at least 1% of the population with at least 250 reads across nuclei
  - Nuclei with more than 7,000 are removed as well as nuclei with library sizes outside the range of 10,000-300,000
 2. Normalisation
@@ -54,7 +54,7 @@ Raw reads were aligned to mm10 and ERCC92 reference using STARa2.7.1a. PCR dupli
 3. Downstream analysis
  - Visualisation, clustering, and differential expression analysis using Scanpy functions
  - Cluster annotation based on differential expression and marker genes
- - Gene set enrichment analysis using gprofiler
+ - Gene set enrichment analysis using package Gprofiler
  - Transcriptional variability is defined as the coefficient of variation calculated on log-transformed data
  - Co-expression of stem cell markers is addressed by calculating Jaccard distances between genes
  - Diffusion pseudo time is calculated on markers of zonation to establish an in-silico order of nuclei along the liver lobule based on their expression        profiles
